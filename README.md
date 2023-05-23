@@ -1,6 +1,6 @@
 # GraphAlgorithms
 
-The java file includes implentations:
+The [java file](GraphAlgorithms.java) includes implentations:
 - Breath-First Search
 - Depth-First Search
 - Topological Sort
